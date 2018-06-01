@@ -9,7 +9,7 @@
 	$to = 'receiver@yoursite.com'; // Email submissions are sent to this email
 
 	// Create email	
-	$email_subject = "Message from Final.";
+	$email_subject = "Message from Final_2018.";
 	$email_body = "You have received a new message. \n\n".
 				  ": $ \n";
 	$headers = "MIME-Version: 1.0\r\nContent-type: text/plain; charset=UTF-8\r\n";	
